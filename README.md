@@ -1,5 +1,7 @@
-# CCFinderX on Latest Ubuntu
+# CCFinderX on Recent Linux
 ===
+
+This was forked in order to support compilation on a newer version of boost library. There was a single line preventing compilation that was patched. Also some much needed cleaning up was required since we are only interested in the cli interface for this utility.
 
 CCFinderX is a code-clone detector which was originally developed by [Toshihiro Kamiya](http://toshihirokamiya.com/).
 
